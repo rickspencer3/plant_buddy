@@ -3,7 +3,7 @@
 This demo is based of the [Plant Buddy IoT project](https://github.com/rickspencer3/plant-buddy) created by Rick Spencer. 
 
 The goal:
-This demo shows how InfluxDB can be successfully used as a storage backend for a Flask server. Leverage Flux queries to filter and retrive your IoT data and then use Dash plotly to visualise. The below BPMN outlines the overall architecture and data flow:
+This demo shows how InfluxDB can be successfully used as a backend for a Flask server. Leverage Flux queries to filter and retrive your IoT data and then use Dash plotly to visualise. The below BPMN outlines the overall architecture and data flow:
 ![PlantBuddy_Architecture](https://user-images.githubusercontent.com/45856600/135630864-a1d67f87-0789-47e2-b7e7-dbff583f91ea.png)
 
 ## Hardware List
